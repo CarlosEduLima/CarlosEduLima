@@ -16,5 +16,5 @@
 
 ### ✨&nbsp; About Me
 
-I started to be interested in programming at the end of high school and decided to go to college in the technology area, it was there that I learned the principles of programming and software development. I studied programming logic with Java, but then I became interested in JavaScript because I can use the same language on the front-end and back-end, I have knowledge on both sides, but I have more experience on the front-end. I've been developing projects with JavaScript for three years, mainly using React.js, React Native, Vue.js, Node.js and their frameworks.
+I started to be interested in programming at the end of high school and decided to go to college in the technology area. I studied programming logic with Java, but then I became interested in JavaScript because I can use the same language on the front-end and back-end, I have knowledge on both sides, but I have more experience on the front-end. I've been developing projects with JavaScript for 4 years, mainly using React.js, React Native, Vue.js, Node.js and their frameworks.
 
