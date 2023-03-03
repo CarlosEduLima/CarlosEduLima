@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/cadu_lima.exe/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=""  width="40" /></a>
 <a href="https://www.linkedin.com/in/carlos-eduardo-2021/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=""  width="40" /></a>
 </p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarlosEduLima)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
