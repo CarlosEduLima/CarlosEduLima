@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://github.com/CarlosEduLima/CarlosEduLima/blob/main/banner.png?raw=true)](https://github.com/CarlosEduLima)
 
 <!--
 **CarlosEduLima/CarlosEduLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
