@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/CarlosEduLima/CarlosEduLima/blob/main/banner.png?raw=true)](https://github.com/CarlosEduLima)
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Next.js, Node Streams
+- 🌱 &nbsp;I’m currently learning Design Patters and Node Streams
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express/Node
 - ⚡ &nbsp;Fun fact: I :heart: :bicyclist: and music
 
